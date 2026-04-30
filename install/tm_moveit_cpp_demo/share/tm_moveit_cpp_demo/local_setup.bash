@@ -1,0 +1,1 @@
+/home/hucenrotia/mahfud/Calibration_TM/build/tm_moveit_cpp_demo/ament_cmake_environment_hooks/local_setup.bash

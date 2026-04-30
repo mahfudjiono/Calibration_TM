@@ -1,0 +1,4 @@
+source;share/tm14_moveit_config/local_setup.bash
+source;share/tm14_moveit_config/local_setup.dsv
+source;share/tm14_moveit_config/local_setup.sh
+source;share/tm14_moveit_config/local_setup.zsh

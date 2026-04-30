@@ -1,0 +1,6 @@
+{
+  "package_name": "techman_robot_msgs",
+  "non_idl_tuples": [
+    "/home/hucenrotia/mahfud/Calibration_TM/src/tmr_ros2/techman_robot_msgs:srv/TechmanRobotCommand.srv"
+  ]
+}

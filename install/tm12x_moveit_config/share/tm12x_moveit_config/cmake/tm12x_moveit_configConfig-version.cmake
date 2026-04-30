@@ -1,0 +1,1 @@
+/home/hucenrotia/mahfud/Calibration_TM/build/tm12x_moveit_config/ament_cmake_core/tm12x_moveit_configConfig-version.cmake

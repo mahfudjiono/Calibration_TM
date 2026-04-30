@@ -1,0 +1,44 @@
+[0.421s] Invoking command in '/home/hucenrotia/mahfud/Calibration_TM/src/tmr_ros2/techman_robot_get_status': PYTHONPATH=/home/hucenrotia/mahfud/Calibration_TM/build/tm_get_status/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/hucenrotia/mahfud/Calibration_TM/install/tm_get_status/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/tm_get_status build --build-base /home/hucenrotia/mahfud/Calibration_TM/build/tm_get_status/build install --record /home/hucenrotia/mahfud/Calibration_TM/build/tm_get_status/install.log --single-version-externally-managed install_data
+[0.571s] running egg_info
+[0.571s] creating ../../../build/tm_get_status/tm_get_status.egg-info
+[0.571s] writing ../../../build/tm_get_status/tm_get_status.egg-info/PKG-INFO
+[0.571s] writing dependency_links to ../../../build/tm_get_status/tm_get_status.egg-info/dependency_links.txt
+[0.572s] writing entry points to ../../../build/tm_get_status/tm_get_status.egg-info/entry_points.txt
+[0.572s] writing requirements to ../../../build/tm_get_status/tm_get_status.egg-info/requires.txt
+[0.572s] writing top-level names to ../../../build/tm_get_status/tm_get_status.egg-info/top_level.txt
+[0.572s] writing manifest file '../../../build/tm_get_status/tm_get_status.egg-info/SOURCES.txt'
+[0.573s] reading manifest file '../../../build/tm_get_status/tm_get_status.egg-info/SOURCES.txt'
+[0.573s] writing manifest file '../../../build/tm_get_status/tm_get_status.egg-info/SOURCES.txt'
+[0.573s] running build
+[0.573s] running build_py
+[0.573s] creating /home/hucenrotia/mahfud/Calibration_TM/build/tm_get_status/build
+[0.573s] creating /home/hucenrotia/mahfud/Calibration_TM/build/tm_get_status/build/lib
+[0.573s] creating /home/hucenrotia/mahfud/Calibration_TM/build/tm_get_status/build/lib/tm_get_status
+[0.574s] copying tm_get_status/__init__.py -> /home/hucenrotia/mahfud/Calibration_TM/build/tm_get_status/build/lib/tm_get_status
+[0.574s] copying tm_get_status/image_pub.py -> /home/hucenrotia/mahfud/Calibration_TM/build/tm_get_status/build/lib/tm_get_status
+[0.574s] copying tm_get_status/translate_jason_to_list.py -> /home/hucenrotia/mahfud/Calibration_TM/build/tm_get_status/build/lib/tm_get_status
+[0.574s] copying tm_get_status/get_status.py -> /home/hucenrotia/mahfud/Calibration_TM/build/tm_get_status/build/lib/tm_get_status
+[0.574s] running install
+[0.574s] running install_lib
+[0.574s] creating /home/hucenrotia/mahfud/Calibration_TM/install/tm_get_status/lib/python3.8/site-packages/tm_get_status
+[0.574s] copying /home/hucenrotia/mahfud/Calibration_TM/build/tm_get_status/build/lib/tm_get_status/__init__.py -> /home/hucenrotia/mahfud/Calibration_TM/install/tm_get_status/lib/python3.8/site-packages/tm_get_status
+[0.574s] copying /home/hucenrotia/mahfud/Calibration_TM/build/tm_get_status/build/lib/tm_get_status/image_pub.py -> /home/hucenrotia/mahfud/Calibration_TM/install/tm_get_status/lib/python3.8/site-packages/tm_get_status
+[0.575s] copying /home/hucenrotia/mahfud/Calibration_TM/build/tm_get_status/build/lib/tm_get_status/translate_jason_to_list.py -> /home/hucenrotia/mahfud/Calibration_TM/install/tm_get_status/lib/python3.8/site-packages/tm_get_status
+[0.575s] copying /home/hucenrotia/mahfud/Calibration_TM/build/tm_get_status/build/lib/tm_get_status/get_status.py -> /home/hucenrotia/mahfud/Calibration_TM/install/tm_get_status/lib/python3.8/site-packages/tm_get_status
+[0.575s] byte-compiling /home/hucenrotia/mahfud/Calibration_TM/install/tm_get_status/lib/python3.8/site-packages/tm_get_status/__init__.py to __init__.cpython-38.pyc
+[0.575s] byte-compiling /home/hucenrotia/mahfud/Calibration_TM/install/tm_get_status/lib/python3.8/site-packages/tm_get_status/image_pub.py to image_pub.cpython-38.pyc
+[0.576s] byte-compiling /home/hucenrotia/mahfud/Calibration_TM/install/tm_get_status/lib/python3.8/site-packages/tm_get_status/translate_jason_to_list.py to translate_jason_to_list.cpython-38.pyc
+[0.576s] byte-compiling /home/hucenrotia/mahfud/Calibration_TM/install/tm_get_status/lib/python3.8/site-packages/tm_get_status/get_status.py to get_status.cpython-38.pyc
+[0.576s] running install_data
+[0.576s] creating /home/hucenrotia/mahfud/Calibration_TM/install/tm_get_status/share/ament_index
+[0.577s] creating /home/hucenrotia/mahfud/Calibration_TM/install/tm_get_status/share/ament_index/resource_index
+[0.577s] creating /home/hucenrotia/mahfud/Calibration_TM/install/tm_get_status/share/ament_index/resource_index/packages
+[0.577s] copying resource/tm_get_status -> /home/hucenrotia/mahfud/Calibration_TM/install/tm_get_status/share/ament_index/resource_index/packages
+[0.577s] copying package.xml -> /home/hucenrotia/mahfud/Calibration_TM/install/tm_get_status/share/tm_get_status
+[0.577s] running install_egg_info
+[0.578s] Copying ../../../build/tm_get_status/tm_get_status.egg-info to /home/hucenrotia/mahfud/Calibration_TM/install/tm_get_status/lib/python3.8/site-packages/tm_get_status-1.0.0-py3.8.egg-info
+[0.578s] running install_scripts
+[0.588s] Installing image_talker script to /home/hucenrotia/mahfud/Calibration_TM/install/tm_get_status/lib/tm_get_status
+[0.588s] Installing status_talker script to /home/hucenrotia/mahfud/Calibration_TM/install/tm_get_status/lib/tm_get_status
+[0.588s] writing list of installed files to '/home/hucenrotia/mahfud/Calibration_TM/build/tm_get_status/install.log'
+[0.599s] Invoked command in '/home/hucenrotia/mahfud/Calibration_TM/src/tmr_ros2/techman_robot_get_status' returned '0': PYTHONPATH=/home/hucenrotia/mahfud/Calibration_TM/build/tm_get_status/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/hucenrotia/mahfud/Calibration_TM/install/tm_get_status/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/tm_get_status build --build-base /home/hucenrotia/mahfud/Calibration_TM/build/tm_get_status/build install --record /home/hucenrotia/mahfud/Calibration_TM/build/tm_get_status/install.log --single-version-externally-managed install_data

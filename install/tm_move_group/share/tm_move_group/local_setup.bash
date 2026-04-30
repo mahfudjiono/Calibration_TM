@@ -1,0 +1,1 @@
+/home/hucenrotia/mahfud/Calibration_TM/build/tm_move_group/ament_cmake_environment_hooks/local_setup.bash

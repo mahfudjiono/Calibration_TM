@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.linux": {
+        "ROS_DOMAIN_ID": "32",
+        "ROS_LOCALHOST_ONLY": "0"
+    }
+}
